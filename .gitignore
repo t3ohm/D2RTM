@@ -6,4 +6,3 @@
 .vs/
 packages/**/*
 !packages/repositories.config
-TokenManager.exe
