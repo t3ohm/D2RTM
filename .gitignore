@@ -1,0 +1,9 @@
+**/bin
+**/obj
+*.pdb
+*.cache
+*.log
+.vs/
+packages/**/*
+!packages/repositories.config
+TokenManager.exe
